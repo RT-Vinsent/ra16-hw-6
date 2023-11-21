@@ -1,5 +1,6 @@
 // import React from 'react';
 import './App.css';
+import WorldClock from './components/task1/WorldClock/WorldClock';
 
 function App() {
   return (
@@ -11,7 +12,7 @@ function App() {
       </header>
       
       {/* Компонент задачи №1 */}
-      {/* </> */}
+      <WorldClock />
 
       {/* Компонент задачи №2 */}
       {/* </> */}
