@@ -1,6 +1,7 @@
 // import React from 'react';
 import './App.css';
 import WorldClock from './components/task1/WorldClock/WorldClock';
+import Notes from './components/task2/Notes/Notes';
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
       <WorldClock />
 
       {/* Компонент задачи №2 */}
-      {/* </> */}
+      <Notes />
 
       {/* Компонент задачи №3 */}
       {/* </> */}

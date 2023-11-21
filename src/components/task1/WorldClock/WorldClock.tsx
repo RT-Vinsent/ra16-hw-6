@@ -87,6 +87,8 @@ class WorldClock extends Component<{}, WorldClockState> {
 
     return (
       <div className='container'>
+        <h2>Мировые часы.</h2>
+        
         <form className='clock-form' onSubmit={(e) => { e.preventDefault(); }}>
           <input
             type="text"
