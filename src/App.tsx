@@ -2,6 +2,7 @@
 import './App.css';
 import WorldClock from './components/task1/WorldClock/WorldClock';
 import Notes from './components/task2/Notes/Notes';
+import Chat from './components/task3/Chat/Chat';
 
 function App() {
   return (
@@ -19,7 +20,7 @@ function App() {
       <Notes />
 
       {/* Компонент задачи №3 */}
-      {/* </> */}
+      <Chat />
       
       {/* Просто подвал */}
       <footer className='footer'><p>Просто подвал</p></footer>
