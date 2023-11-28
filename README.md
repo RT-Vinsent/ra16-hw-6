@@ -8,7 +8,7 @@
 
 ---
 
-[![Build status](https://ci.appveyor.com/api/projects/status/ay95pwgc2ri28dqt?svg=true)](https://ci.appveyor.com/project/RT-Vinsent/ra16-hw-6)
+[![Build status](https://ci.appveyor.com/api/projects/status/8j0b5sdd49tqc7x7?svg=true)](https://ci.appveyor.com/project/RT-Vinsent/ra16-hw-6)
 
 [![pages-build-deployment](https://github.com/RT-Vinsent/ra16-hw-6/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/RT-Vinsent/ra16-hw-6/actions/workflows/pages/pages-build-deployment)
 
